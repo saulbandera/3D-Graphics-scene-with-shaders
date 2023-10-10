@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 3\2021-22\ASSESSMENTS 2021-22\cmp301_coursework-1900264-f577dd01fab0da17e194f99d2bd6c40f069318cc\Coursework\x64\Debug\Coursework.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 3\2021-22\ASSESSMENTS 2021-22\cmp301_coursework-1900264-f577dd01fab0da17e194f99d2bd6c40f069318cc\Coursework\Coursework\bloom_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 3\2021-22\ASSESSMENTS 2021-22\cmp301_coursework-1900264-f577dd01fab0da17e194f99d2bd6c40f069318cc\Coursework\Coursework\depthCube_gs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 3\2021-22\ASSESSMENTS 2021-22\cmp301_coursework-1900264-f577dd01fab0da17e194f99d2bd6c40f069318cc\Coursework\Coursework\depthCube_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 3\2021-22\ASSESSMENTS 2021-22\cmp301_coursework-1900264-f577dd01fab0da17e194f99d2bd6c40f069318cc\Coursework\Coursework\depth_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 3\2021-22\ASSESSMENTS 2021-22\cmp301_coursework-1900264-f577dd01fab0da17e194f99d2bd6c40f069318cc\Coursework\Coursework\horizontalBlur_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 3\2021-22\ASSESSMENTS 2021-22\cmp301_coursework-1900264-f577dd01fab0da17e194f99d2bd6c40f069318cc\Coursework\Coursework\moon_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 3\2021-22\ASSESSMENTS 2021-22\cmp301_coursework-1900264-f577dd01fab0da17e194f99d2bd6c40f069318cc\Coursework\Coursework\default_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 3\2021-22\ASSESSMENTS 2021-22\cmp301_coursework-1900264-f577dd01fab0da17e194f99d2bd6c40f069318cc\Coursework\Coursework\shadow_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 3\2021-22\ASSESSMENTS 2021-22\cmp301_coursework-1900264-f577dd01fab0da17e194f99d2bd6c40f069318cc\Coursework\Coursework\shadow_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 3\2021-22\ASSESSMENTS 2021-22\cmp301_coursework-1900264-f577dd01fab0da17e194f99d2bd6c40f069318cc\Coursework\Coursework\thresholdBrightness_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 3\2021-22\ASSESSMENTS 2021-22\cmp301_coursework-1900264-f577dd01fab0da17e194f99d2bd6c40f069318cc\Coursework\Coursework\verticalBlur_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 3\2021-22\ASSESSMENTS 2021-22\cmp301_coursework-1900264-f577dd01fab0da17e194f99d2bd6c40f069318cc\Coursework\Coursework\wave_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\COMPUTER GAMES TECHNOLOGY\year 3\2021-22\ASSESSMENTS 2021-22\cmp301_coursework-1900264-f577dd01fab0da17e194f99d2bd6c40f069318cc\Coursework\Coursework\wave_vs.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
